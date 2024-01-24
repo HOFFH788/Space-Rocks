@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object3",
+  "name": "Obj_Asdroid_Big",
   "spriteId": null,
   "solid": false,
   "visible": true,
