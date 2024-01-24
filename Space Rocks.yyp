@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Space Rocks",
   "resources": [
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":2,},
     {"id":{"name":"Spr_Ship","path":"sprites/Spr_Ship/Spr_Ship.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
