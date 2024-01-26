@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Obj_Asdroid_Big",
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_Big_Asdroid",
+    "path": "sprites/Spr_Big_Asdroid/Spr_Big_Asdroid.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

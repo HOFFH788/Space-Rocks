@@ -11,7 +11,7 @@
     {"id":{"name":"Obj_Asdroid_Big","path":"objects/Obj_Asdroid_Big/Obj_Asdroid_Big.yy",},"order":8,},
     {"id":{"name":"Spr_Ship","path":"sprites/Spr_Ship/Spr_Ship.yy",},"order":1,},
     {"id":{"name":"Obj_Ship","path":"objects/Obj_Ship/Obj_Ship.yy",},"order":5,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Rm_game","path":"rooms/Rm_game/Rm_game.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Android","path":"options/android/options_android.yy",},
@@ -35,7 +35,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Rm_game","path":"rooms/Rm_game/Rm_game.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
