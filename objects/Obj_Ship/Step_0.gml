@@ -14,7 +14,7 @@ if(keyboard_check(vk_up)){
 }
 
 if(keyboard_check(vk_down)){
-	motion_add(image_angle, .05);
+	motion_add(image_angle,-.05);
 
 }
 
