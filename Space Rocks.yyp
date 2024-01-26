@@ -7,6 +7,8 @@
     {"id":{"name":"Spr_Small_Asdroid","path":"sprites/Spr_Small_Asdroid/Spr_Small_Asdroid.yy",},"order":2,},
     {"id":{"name":"Obj_Asdroid_Medium","path":"objects/Obj_Asdroid_Medium/Obj_Asdroid_Medium.yy",},"order":6,},
     {"id":{"name":"Obj_Asdroid","path":"objects/Obj_Asdroid/Obj_Asdroid.yy",},"order":7,},
+    {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},"order":0,},
+    {"id":{"name":"Spr_bullet","path":"sprites/Spr_bullet/Spr_bullet.yy",},"order":9,},
     {"id":{"name":"Spr_Big_Asdroid","path":"sprites/Spr_Big_Asdroid/Spr_Big_Asdroid.yy",},"order":4,},
     {"id":{"name":"Obj_Asdroid_Big","path":"objects/Obj_Asdroid_Big/Obj_Asdroid_Big.yy",},"order":8,},
     {"id":{"name":"Spr_Ship","path":"sprites/Spr_Ship/Spr_Ship.yy",},"order":1,},
