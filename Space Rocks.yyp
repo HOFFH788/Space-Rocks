@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"Spr_Medium_Asdroid","path":"sprites/Spr_Medium_Asdroid/Spr_Medium_Asdroid.yy",},"order":3,},
     {"id":{"name":"Spr_Small_Asdroid","path":"sprites/Spr_Small_Asdroid/Spr_Small_Asdroid.yy",},"order":2,},
+    {"id":{"name":"Obj_bullets","path":"objects/Obj_bullets/Obj_bullets.yy",},"order":10,},
     {"id":{"name":"Obj_Asdroid_Medium","path":"objects/Obj_Asdroid_Medium/Obj_Asdroid_Medium.yy",},"order":6,},
     {"id":{"name":"Obj_Asdroid","path":"objects/Obj_Asdroid/Obj_Asdroid.yy",},"order":7,},
     {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},"order":0,},
